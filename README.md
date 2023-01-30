@@ -1,2 +1,3 @@
-# CSS_Variable_with_JavaScript
-CSS Variable with JavaScript
+# CSS Variable with JavaScript
+
+Move an object with the mouse.
